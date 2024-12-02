@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola! Soy Rafa, de Donosti y actualmente estudiante de bioinformática y bioestadística
 
 <!--
 **RafaFariasVarona/RafaFariasVarona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
